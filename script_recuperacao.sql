@@ -1,0 +1,1 @@
+SOURCE /caminho/do/backup/backup.sql;
